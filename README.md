@@ -6,7 +6,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xberkecanakdemir" alt="0xberkecanakdemir" /></a>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xberkecanakdemir&show_icons=true&locale=en&layout=compact" alt="0xberkecanakdemir" />
 </div>
-<br>
 <hr>
 
 - 🌱 I’m currently learning <strong>React</strong>
