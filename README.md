@@ -2,7 +2,6 @@
 <h3 align="center">26 years old, A passionate frontend developer from Turkey</h3>
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xberkecanakdemir&label=Profile%20views&color=0e75b6&style=flat" alt="0xberkecanakdemir" /> </p>
-<img align="left" alt="Coding" width="340" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif">
 <div>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xberkecanakdemir" alt="0xberkecanakdemir" /></a>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xberkecanakdemir&show_icons=true&locale=en&layout=compact" alt="0xberkecanakdemir" />
