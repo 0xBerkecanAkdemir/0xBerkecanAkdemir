@@ -16,17 +16,13 @@
 
 - 📫 How to reach me **berkeakdemirr@gmail.com**
 
+- 💼 Connect with me **https://www.linkedin.com/in/berkecanakdemir/**
+
 - 📄 Know about my experiences [https://www.freecodecamp.org/0xBerkecanAkdemir](https://www.freecodecamp.org/0xBerkecanAkdemir)
 
 - 📄 Know about my experiences 2 [https://app.patika.dev/xbeki](https://app.patika.dev/xbeki)
 
-
 <hr>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/xbeki1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xbeki1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/berkecanakdemir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berkecanakdemir" height="30" width="40" /></a>
-</p>
 <h3 align="left"><strong>Support:</strong></h3>
 <p><a href="https://www.buymeacoffee.com/0xberkecan"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="0xberkecan" /></a></p>
 
