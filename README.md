@@ -6,7 +6,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xberkecanakdemir" alt="0xberkecanakdemir" width="55%"/></a></p>
 </div>
 <div>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xberkecanakdemir&show_icons=true&locale=en&layout=compact" alt="0xberkecanakdemir" width="35%" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xberkecanakdemir&show_icons=true&theme=radical&locale=en&layout=compact" alt="0xberkecanakdemir" width="35%"/></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=0xberkecanakdemir&show_icons=true&theme=dark&locale=en" alt="0xberkecanakdemir" width="35%" />
 </div>
 <hr>
