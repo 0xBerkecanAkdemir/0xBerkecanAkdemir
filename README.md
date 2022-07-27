@@ -34,6 +34,10 @@
 - 📄 Know about my experiences 2 <a href="https://app.patika.dev/xbeki">here</a
 
 </p>
+
+<p>
+- 💬 Ask me about **Html, CSS and JavaScript, React.js.**
+</p>
 </div>
 <hr>
 <div align="center">
