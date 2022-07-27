@@ -3,7 +3,7 @@
 <hr>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=0xberkecanakdemir&label=Profile%20views&color=0e75b6&style=flat" alt="0xberkecanakdemir" /> </p>
 <div>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xberkecanakdemir" alt="0xberkecanakdemir" /></a></p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xberkecanakdemir" alt="0xberkecanakdemir" width="55%"/></a></p>
 </div>
 <div>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xberkecanakdemir&show_icons=true&locale=en&layout=compact" alt="0xberkecanakdemir" width="35%" />
@@ -54,6 +54,6 @@
 </div>
 <hr>
 <div align="center">
-<p><a href="https://www.buymeacoffee.com/0xberkecan"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="0xberkecan" /></a></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xberkecanakdemir&" alt="0xberkecanakdemir" /></p>
+<p><a href="https://www.buymeacoffee.com/0xberkecan"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="150" alt="0xberkecan" /></a></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xberkecanakdemir&" alt="0xberkecanakdemir" width="40%"/></p>
 </div>
