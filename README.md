@@ -13,15 +13,16 @@
 <hr>
 <hr>
 <hr>
+<hr>
 <div>
-<h3 align="center">Languages and Tools:</h3>
-<p align="center" style="border"> 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left" style="border"> 
 <a href="https://discord.com/" target="_blank" rel=”nooferrer”> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" alt="discord" width="32" height="32/> </a> 
 <a href="https://code.visualstudio.com/" target="_blank" rel=”nooferrer”> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="30" height="30"/> </a>
 <a href="https://www.photoshop.com/en" target="_blank" rel=”nooferrer”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30"/> </a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="35" height="35"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="35" height="35"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> </a> </p>
 </div>
-<div align="center">
+<div align="left">
 <p>
 - 🌱 I’m currently learning: React.js and anything related with JavaScript.
 
@@ -52,6 +53,6 @@
 - 📫 How to reach me: <a href="mailto:berkeakdemirr@gmail.com">berkeakdemirr@gmail.com</a>
   </p>
 </div>
-<div align="center">
+<div align="left">
 <p><a href="https://www.buymeacoffee.com/0xberkecan"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="150" alt="0xberkecan" /></a></p>
 </div>
