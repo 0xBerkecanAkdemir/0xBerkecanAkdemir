@@ -55,5 +55,4 @@
 <hr>
 <div align="center">
 <p><a href="https://www.buymeacoffee.com/0xberkecan"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="150" alt="0xberkecan" /></a></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xberkecanakdemir&" alt="0xberkecanakdemir" width="40%"/></p>
 </div>
