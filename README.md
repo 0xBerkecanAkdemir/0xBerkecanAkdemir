@@ -38,6 +38,10 @@
 <p>
 - 💬 Ask me about: Html, CSS, JavaScript and React.js.
 </p>
+  
+ <p>
+- 📫 How to reach me: berkeakdemirr@gmail.com
+  </p>
 </div>
 <hr>
 <div align="center">
