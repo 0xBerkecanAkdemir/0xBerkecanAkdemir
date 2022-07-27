@@ -40,7 +40,7 @@
 </p>
   
  <p>
-- 📫 How to reach me: berkeakdemirr@gmail.com
+- 📫 How to reach me: <a href="mailto:berkeakdemirr@gmail.com"> </a>
   </p>
 </div>
 <hr>
