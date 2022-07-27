@@ -3,7 +3,8 @@
 <hr>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=0xberkecanakdemir&label=Profile%20views&color=0e75b6&style=flat" alt="0xberkecanakdemir" /> </p>
 <div>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xberkecanakdemir" alt="0xberkecanakdemir" width="55%"/></a></p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xberkecanakdemir&title=Commit,MultiLanguage,Repositories,Stars,PullRequest,Issues&margin-w=5&no-bg=true" alt="0xberkecanakdemir" width="55%" /></a> </p>
+<p>
 </div>
 <div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xberkecanakdemir&show_icons=true&theme=radical&locale=en&layout=compact" alt="0xberkecanakdemir" width="35%"/></p>
