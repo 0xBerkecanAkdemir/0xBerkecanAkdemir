@@ -13,7 +13,6 @@
 <hr>
 <hr>
 <hr>
-<hr>
 <div>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center" style="border"> 
