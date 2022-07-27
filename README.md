@@ -1,19 +1,13 @@
-<h1 align="center">Hi 👋, I'm Berkecan</h1>
-<h3 align="center">26 years old, A passionate frontend developer from Turkey</h3>
-<hr>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=0xberkecanakdemir&label=Profile%20views&color=0e75b6&style=flat" alt="0xberkecanakdemir" /> </p>
+<h2 align="left">Hi 👋, I'm Berkecan</h1>
+<h4 align="left">26 years old, A passionate frontend developer from Turkey</h3>
 <div>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xberkecanakdemir&title=Commit,MultiLanguage,Repositories,Stars,PullRequest,Issues&margin-w=5&no-bg=true" alt="0xberkecanakdemir" width="55%" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xberkecanakdemir&title=Commit,MultiLanguage,Repositories,Stars,PullRequest,Issues&margin-w=5&no-bg=true" alt="0xberkecanakdemir" width="55%" /></a> </p>
 <p>
 </div>
 <div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xberkecanakdemir&show_icons=true&theme=radical&locale=en&layout=compact" alt="0xberkecanakdemir" width="35%"/></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=0xberkecanakdemir&show_icons=true&theme=dark&locale=en" alt="0xberkecanakdemir" width="35%" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xberkecanakdemir&show_icons=true&theme=dark&locale=en" alt="0xberkecanakdemir" width="35%" />
 </div>
-<hr>
-<hr>
-<hr>
-<hr>
 <div>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" style="border"> 
