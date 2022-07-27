@@ -15,7 +15,7 @@
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="35" height="35"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="35" height="35"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> </a> </p>
 <div align="center">
 <p>
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning: React
 </p>
 
 <p>
@@ -31,12 +31,12 @@
 </p>
 
 <p>
-- 📄 Know about my experiences 2 <a href="https://app.patika.dev/xbeki">here</a
+- 📄 Know about my experiences 2: <a href="https://app.patika.dev/xbeki">here</a
 
 </p>
 
 <p>
-- 💬 Ask me about **Html, CSS and JavaScript, React.js.**
+- 💬 Ask me about: Html, CSS and JavaScript, React.js.
 </p>
 </div>
 <hr>
