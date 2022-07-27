@@ -5,9 +5,8 @@
 <p>
 </div>
 <div>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xberkecanakdemir&" alt="0xberkecanakdemir" width="32%"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xberkecanakdemir&show_icons=true&theme=radical&locale=en&layout=compact" alt="0xberkecanakdemir" width="32%"/>
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xberkecanakdemir&show_icons=true&theme=dark&locale=en" alt="0xberkecanakdemir" width="32%"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xberkecanakdemir&show_icons=true&theme=radical&locale=en&layout=compact" alt="0xberkecanakdemir" width="45%"/>
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xberkecanakdemir&show_icons=true&theme=dark&locale=en" alt="0xberkecanakdemir" width="46%"/>
 </div>
 <div>
 <h3 align="left">Languages and Tools:</h3>
