@@ -37,7 +37,7 @@
 </p>
 
 <p>
-- 💬 Ask me about: Html, CSS, JavaScript and React.js.
+- 💬 Ask me about: CSS, JavaScript and React.js.
 </p>
   
  <p>
