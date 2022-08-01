@@ -18,12 +18,15 @@
 </div>
 <div align="left">
 <p>
+- 🏛️<strong> My freecodecamp certificate:</strong><a href="https://www.freecodecamp.org/certification/0xBerkecanAkdemir/responsive-web-design"> here</a>
+</p>
+<p>
 - 🌱 I’m currently learning: React.js and anything related with JavaScript.
 
 </p>
 
 <p>
-- 👨‍💻 Previews of all my projects are available at:<a href="https://vercel.com/0xberkecanakdemir">here</a>
+- 👨‍💻 Previews of all my projects are available at:<a href="https://vercel.com/0xberkecanakdemir"> here</a>
 </p>
 
 <p>
