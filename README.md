@@ -21,6 +21,9 @@
 - 🏛️<strong> My freecodecamp certificate:</strong><a href="https://www.freecodecamp.org/certification/0xBerkecanAkdemir/responsive-web-design"> here</a>
 </p>
 <p>
+- 🏛️<strong> My patika.dev certificate:</strong><a href="https://app.patika.dev/certificates/Rj7H9mb"> here</a>
+</p>
+<p>
 - 🌱 I’m currently learning: React.js and anything related with JavaScript.
 
 </p>
