@@ -45,14 +45,7 @@
 
 </p>
 
-<p>
-- 💬 Ask me about: CSS, JavaScript and React.js.
-</p>
-  
  <p>
 - 📫 How to reach me: <a href="mailto:berkeakdemirr@gmail.com">berkeakdemirr@gmail.com</a>
   </p>
-</div>
-<div align="left">
-<p><a href="https://www.buymeacoffee.com/0xberkecan"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="150" alt="0xberkecan" /></a></p>
 </div>
