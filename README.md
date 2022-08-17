@@ -1,5 +1,6 @@
 <h2 align="left">Hi 👋, I'm Berkecan</h1>
-<h4 align="left">26 years old, I from Turkey</h3>
+<h4 align="left">26 years old, I from Turkey, </h3>
+<h4 align="left">I’m currently learning: React.js and anything related with JavaScript.</h3>
 <div>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xberkecanakdemir&title=Commit,MultiLanguage,Repositories,Stars,PullRequest,Issues&margin-w=5&no-bg=true" alt="0xberkecanakdemir" width="55%" /></a> </p>
 <p>
@@ -17,35 +18,21 @@
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="35" height="35"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="35" height="35"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> </a> </p>
 </div>
 <div align="left">
+<h3> <strong>My Certificates</strong> </h3>
 <p>
-- 🏛️<strong> My freecodecamp certificate:</strong><a href="https://www.freecodecamp.org/certification/0xBerkecanAkdemir/responsive-web-design"> here</a>
+- 🏛️<strong> Freecodecamp responsive web design:</strong><a href="https://www.freecodecamp.org/certification/0xBerkecanAkdemir/responsive-web-design"> here</a>
 </p>
 <p>
-- 🏛️<strong> My patika.dev certificate:</strong><a href="https://app.patika.dev/certificates/Rj7H9mb"> here</a>
-</p>
-<p>
-- 🌱 I’m currently learning: React.js and anything related with JavaScript.
-
+- 🏛️<strong> Patika.dev beginning frontend web development:</strong><a href="https://app.patika.dev/certificates/Rj7H9mb"> here</a>
 </p>
 
-<p>
-- 👨‍💻 Previews of all my projects are available at:<a href="https://vercel.com/0xberkecanakdemir"> here</a>
-</p>
-
+<h3> <strong>Contact</strong> </h3>
 <p>
 - 💼 Connect with me: <a href="https://www.linkedin.com/in/berkecanakdemir">here</a
-</p>
-
-<p>
-- 📄 Know about my experiences: <a href="https://www.freecodecamp.org/0xBerkecanAkdemir">here</a
-</p>
-
-<p>
-- 📄 Know about my experiences 2: <a href="https://app.patika.dev/xbeki">here</a
-
 </p>
 
  <p>
 - 📫 How to reach me: <a href="mailto:berkeakdemirr@gmail.com">berkeakdemirr@gmail.com</a>
   </p>
+ 
 </div>
