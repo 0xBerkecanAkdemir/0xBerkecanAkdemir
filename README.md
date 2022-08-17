@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋, I'm Berkecan</h1>
-<h4 align="left">26 years old, A passionate frontend developer from Turkey</h3>
+<h4 align="left">26 years old, I from Turkey</h3>
 <div>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xberkecanakdemir&title=Commit,MultiLanguage,Repositories,Stars,PullRequest,Issues&margin-w=5&no-bg=true" alt="0xberkecanakdemir" width="55%" /></a> </p>
 <p>
